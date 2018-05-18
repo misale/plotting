@@ -1,2 +1,2 @@
 # plotting
-playing with gonum/plot
+### playing with gonum/plot
